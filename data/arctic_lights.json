@@ -1,0 +1,17 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "creators": ["iIiViRuZiIi","Endlevel"],
+    "verifier": "n/a",
+    "verification": "https://www.youtube.com/watch?v=yd5cH9nvDvg",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Water",
+            "link": "https://youtu.be/hrC7R1m11vw?si=CE-UyqKg1A_Q3n_r",
+            "percent": 100,
+            "hz": 360
+}
+    ]
+}
