@@ -45,7 +45,7 @@ export default {
 
     computed: {
         selfVerified() {
-            return this.author === this.verifier && this.creators.length === 0;
+            return this.author === this.creators.length === 0;
         },
     },
 };
