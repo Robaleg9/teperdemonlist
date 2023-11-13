@@ -1,0 +1,18 @@
+{
+    "id": 79242390,
+    "name": "vaenstep",
+    "author": "vaen",
+    "creators": ["Renn241"],
+    "verifier": "n/a",
+    "verification": "https://www.youtube.com/watch?v=NWG7IDhzNlc",
+    "percentToQualify": 100,
+    "password": "800850",
+    "records": [
+    {
+            "user": "roqqet",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+}
+    ]
+}
