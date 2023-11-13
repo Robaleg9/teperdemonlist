@@ -1,0 +1,17 @@
+{
+    "id": 55224007,
+    "name": "distraught",
+    "author": "alkali",
+    "creators": ["Eggnog", "Vapen", "YakobNugget", "Eclipsed", "Juhou", "Lqah", "alkali", "Voltex", "Salaxium", "Prism"],
+    "verifier": "n/a",
+    "verification": "https://www.youtube.com/watch?v=JglmGHn-RUI",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Derek46",
+            "link": "https://youtu.be/AvGwVl_amEE?si=vB5_QFG71pbUsQQz",
+            "percent": 100,
+            "hz": 240
+}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 81041659,
+    "name": "Polygonal Paradox",
+    "author": "Hypno",
+    "creators": ["AleeXhey", "kreno", "Hypno"],
+    "verifier": "n/a",
+    "verification": "https://www.youtube.com/watch?v=w1fSQxEdYnc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Closetta",
+            "link": "https://youtu.be/sALuj7goFLU?si=-YcrEaZ7_dHAulOR",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
